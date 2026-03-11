@@ -56,6 +56,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-You can deploy this project to platforms like Vercel, Netlify, or Github Pages.
